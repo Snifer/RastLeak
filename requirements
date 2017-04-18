@@ -1,6 +1,5 @@
-pypdf2
-python-docx 
-beautifulsoup4 
-wget
-argparse
-requests
+PyPDF2==1.26.'
+python-docx==0.8.6
+beautifulsoup4==4.5.1
+wget==3.2
+requests==2.10.0
